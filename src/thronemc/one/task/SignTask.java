@@ -21,7 +21,7 @@ public class SignTask implements Runnable {
 		try {
 			conn = DriverManager.getConnection(
 					"jdbc:mysql://vweb14.nitrado.net:3306/ni393765_1sql1",
-					"ni393765_1sql1", "McDBase123");
+					"ni393765_1sql1", "123");
 		} catch (Exception e) {
 		}
 	}
