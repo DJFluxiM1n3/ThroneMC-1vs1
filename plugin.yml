@@ -1,0 +1,10 @@
+name: One
+author: ThroneMC
+version: 0.1
+main: thronemc.one.One
+
+commands:
+ setspawn:
+  description: AdminTool
+ stats:
+  description: Check out your stats.
